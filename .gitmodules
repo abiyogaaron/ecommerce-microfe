@@ -1,0 +1,9 @@
+[submodule "products"]
+	path = products
+	url = https://github.com/abiyogaaron/products.git
+[submodule "container"]
+	path = container
+	url = https://github.com/abiyogaaron/container.git
+[submodule "cart"]
+	path = cart
+	url = https://github.com/abiyogaaron/cart.git
